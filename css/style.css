@@ -1,0 +1,50 @@
+* {
+    font-family: Verdana, Arial, sans-serif;
+    color: #775548;
+    background-color: #EDECE9;
+}
+
+.imagen-principal {
+    width: 100%;
+}
+
+a {
+    font-weight: bold;
+    color:#EF6D24;
+}
+
+.enlacesPrincipales {
+    font-size: 20px;
+}
+
+.link-azul {
+    color: #3AABC4;
+}
+
+.link-rojo {
+    color: #EF4B51;
+}  
+
+h1 {
+    font-size: 40px;
+    color: #775548;
+}
+
+h2 {
+    background-color: #775548;
+    color: #E1D4CF;
+}
+
+.titulo-diferente {
+    color: #D8B03B;
+}
+
+.contacto {
+    color: #EF4B51;
+    text-decoration: underline;
+
+}
+
+.cabania {
+    width: 800px;
+}
